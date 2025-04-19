@@ -1,0 +1,11 @@
+city,locality,total_co2_kt,co2_per_capita,energy_use_gwh,renewable_pct,vehicles_per_km,public_transport_score,industrial_zones,green_buildings,population_density_km2,tree_cover_pct,air_quality_index,sustainability_score,emission_intensity,transport_impact,normalized_co2
+Delhi,Connaught Place,14500,3.8,8500,9,420,65,15,40,29000,12,342,52,1.72,0.68,1.0
+Mumbai,Bandra,12800,3.5,9200,11,510,70,12,45,32000,8,297,58,1.45,0.72,0.88
+Bengaluru,Whitefield,6800,2.1,6200,18,380,55,25,60,18000,22,154,71,0.98,0.52,0.47
+Chennai,Anna Nagar,5200,1.9,4800,14,350,60,18,35,21000,15,201,63,1.12,0.48,0.36
+Hyderabad,Gachibowli,4900,1.7,4500,20,290,50,20,70,15000,25,128,79,0.87,0.42,0.34
+Kolkata,Salt Lake,6100,2.3,5100,7,410,45,10,30,25000,10,278,49,1.25,0.58,0.42
+Pune,Koregaon Park,3800,1.5,3900,25,270,75,8,65,12000,30,118,85,0.65,0.38,0.26
+Ahmedabad,Prahlad Nagar,4300,1.6,4100,12,310,40,14,50,19000,18,245,61,0.92,0.45,0.30
+Jaipur,Malviya Nagar,2700,1.2,2400,15,180,35,5,55,9000,20,176,73,0.52,0.25,0.19
+Kochi,Kakkanad,2100,1.0,2200,30,150,60,6,75,8000,35,89,91,0.41,0.22,0.14
