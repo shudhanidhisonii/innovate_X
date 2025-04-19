@@ -1,3 +1,4 @@
+add-ML
 streamlit==1.32.0
 folium==0.14.0
 streamlit-folium==0.15.1
@@ -6,3 +7,14 @@ numpy==1.26.2
 matplotlib==3.8.2
 seaborn==0.13.0
 pillow==10.1.0
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+folium
+streamlit-folium
+matplotlib
+plotly
+seaborn
+main
